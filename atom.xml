@@ -2,20 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sylvesterlali.github.io</id>
     <title>咕咕的炼金工坊</title>
-    <updated>2020-03-18T15:33:38.108Z</updated>
+    <updated>2021-02-22T16:57:49.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sylvesterlali.github.io"/>
     <link rel="self" href="https://sylvesterlali.github.io/atom.xml"/>
     <subtitle>记录一些个人的学习笔记和随想</subtitle>
     <logo>https://sylvesterlali.github.io/images/avatar.png</logo>
     <icon>https://sylvesterlali.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 咕咕的炼金工坊</rights>
+    <rights>All rights reserved 2021, 咕咕的炼金工坊</rights>
     <entry>
-        <title type="html"><![CDATA[记录一些Python学习的实验和笔记]]></title>
+        <title type="html"><![CDATA[【日记】新手在英国养缅因。（2021年2月17号更新）]]></title>
+        <id>https://sylvesterlali.github.io/post/ri-ji-xin-shou-zai-ying-guo-yang-mian-yin-2021-nian-2-yue-17-hao-geng-xin/</id>
+        <link href="https://sylvesterlali.github.io/post/ri-ji-xin-shou-zai-ying-guo-yang-mian-yin-2021-nian-2-yue-17-hao-geng-xin/">
+        </link>
+        <updated>2021-02-22T08:55:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于日语学校语法和教育语法的笔记]]></title>
+        <id>https://sylvesterlali.github.io/post/guan-yu-ri-yu-xue-xiao-yu-fa-he-jiao-yu-yu-fa-de-bi-ji/</id>
+        <link href="https://sylvesterlali.github.io/post/guan-yu-ri-yu-xue-xiao-yu-fa-he-jiao-yu-yu-fa-de-bi-ji/">
+        </link>
+        <updated>2020-03-21T10:47:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录一些Python学习的实验和个人笔记]]></title>
         <id>https://sylvesterlali.github.io/post/ji-lu-yi-xie-python-xue-xi-de-shi-yan-he-bi-ji/</id>
         <link href="https://sylvesterlali.github.io/post/ji-lu-yi-xie-python-xue-xi-de-shi-yan-he-bi-ji/">
         </link>
-        <updated>2020-03-17T23:16:41.000Z</updated>
+        <updated>2020-03-17T15:16:41.000Z</updated>
         <summary type="html"><![CDATA[<p>如题，都是个人实验和散碎的笔记。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>如题，都是个人实验和散碎的笔记。</p>
